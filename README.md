@@ -1,29 +1,29 @@
 # Tasmota Smart Meter Scripts Repository
 
-Dieses Repository enthält 151 Smart Meter Scripts für Tasmota, automatisch generiert aus dem Tasmota Wiki und Bitshake Documentation.
+Dieses Repository enthält Smart Meter Scripts für Tasmota, generiert aus dem Tasmota Wiki und Bitshake Documentation.
 
 ## API Endpoints
 
 ### Script Liste für Dropdown
 ```
-GET https://raw.githubusercontent.com/USER/REPO/main/api/list.json
+GET https://raw.githubusercontent.com/iot-maker/tasmota-smart-meter-scripts/main/api/list.json
 ```
 
 ### Vollständige Script Informationen  
 ```
-GET https://raw.githubusercontent.com/USER/REPO/main/api/scripts.json
+GET https://raw.githubusercontent.com/iot-maker/tasmota-smart-meter-scripts/main/api/scripts.json
 ```
 
 ### Einzelnes Script
 ```
-GET https://raw.githubusercontent.com/USER/REPO/main/scripts/SCRIPT_NAME.txt
+GET https://raw.githubusercontent.com/iot-maker/tasmota-smart-meter-scripts/main/scripts/SCRIPT_NAME.txt
 ```
 
 ## Verwendung in Tasmota
 
 ### 1. Script Liste abrufen
 ```http
-GET https://raw.githubusercontent.com/USER/REPO/main/api/list.json
+GET https://raw.githubusercontent.com/iot-maker/tasmota-smart-meter-scripts/main/api/list.json
 ```
 
 Antwort:
@@ -41,7 +41,7 @@ Antwort:
 
 ### 2. Script herunterladen
 ```http
-GET https://raw.githubusercontent.com/USER/REPO/main/scripts/EMH_eHZ_SML.txt
+GET https://raw.githubusercontent.com/iot-maker/tasmota-smart-meter-scripts/main/scripts/EMH_eHZ_SML.txt
 ```
 
 ## Verfügbare Protokolle
@@ -53,6 +53,3 @@ GET https://raw.githubusercontent.com/USER/REPO/main/scripts/EMH_eHZ_SML.txt
 
 ## Letzte Aktualisierung
 19.08.2025 16:03:52 UTC
-
-## Automatische Updates
-Dieses Repository wird automatisch über GitHub Actions aktualisiert, wenn neue Scripts im Tasmota Wiki oder bei Bitshake verfügbar sind.
