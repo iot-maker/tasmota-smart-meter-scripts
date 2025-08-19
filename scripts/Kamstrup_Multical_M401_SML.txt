@@ -1,0 +1,36 @@
+>D
+scnt=0
+res=0
+>B
+=>sensor53 r
+>F
+; count 100ms
+scnt+=1
+switch scnt
+;100ms after start: set sml driver to 300 baud
+case 1
+res=sml(1 0 300)
+;1600ms send /#1 as HEX to trigger
+case 16
+res=sml(1 1 "2F23310D0A")
+;2200ms later: switch sml driver to 1200 baud
+case 22
+res=sml(1 0 1200)
+;1000ms after start: Restart sequence
+case 100
+scnt=0
+ends
+>M 1
++1,3,o,0,1200,MC401,1
+1,@s 0:1,Gesammt Verbrauch,kwh,total_in,0
+1,@s 1:100,Gesammt Durchfluss,m3,total_flow,2
+1,@s 2:1,Laufzeit,h,time,0
+1,@s 3:100,Vorlauf Temperatur,C°,temp_in,2
+1,@s 4:100,Rücklauf Temperatur,C°,temp_out,2
+1,@s 5:100,Temperatur differenz,C°,delta_t,2
+1,@s 6:10,Aktuelle Leistung,kW,power,1
+1,@s 7:1,Durchlfuss,l/h,flow,0
+1,@s 8:10,maximale Leistung,kWP,max_power,1
+1,@s 9:1,Info,,info,0
+1,=so3,256
+#

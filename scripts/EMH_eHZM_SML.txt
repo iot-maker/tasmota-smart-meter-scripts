@@ -1,0 +1,14 @@
+>D
+>B
+->sensor53 r
+>M 1
++1,3,s,0,9600,
+1,77070100600100FF@#,Zaehlernummer,,serialnr,16
+1,77070100010800FF@1000,Pos Wirkenergie tariflos,kWh,pos_wirk_tariflos,1
+1,77070100010801FF@1000,Pos Wirkenergie Tarif 1,kWh,pos_wirk_tarif_1,1
+1,77070100010802FF@1000,Pos Wirkenergie Tarif 2,kWh,pos_wirk_tarif_2,1
+1,77070100020800FF@1000,Neg Wirkenergie tariflos,kWh,neg_wirk_tariflos,1
+1,77070100020801FF@1000,Neg Wirkenergie Tarif 1,kWh,neg_wirk_tarif_1,1
+1,77070100020802FF@1000,Neg Wirkenergie Tarif 2,kWh,neg_wirk_tarif_2,1
+1,77070100100700FF@1,Momentanwirkleistung,W,momentanwirkleistung,0
+#

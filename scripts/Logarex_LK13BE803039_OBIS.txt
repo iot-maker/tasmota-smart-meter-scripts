@@ -1,0 +1,13 @@
+>D
+>B
+=>sensor53 r
+>M 1
++1,3,o,0,9600,LK13BE
+1,1-0:1.8.0*255(@1,Gesamtverbrauch,kWh,total,4
+1,1-0:1.8.0*96(@1,Verbrauch 1 Tag,kWh,total_1d,4
+1,1-0:1.8.0*97(@1,Verbrauch 7 Tage,kWh,total_7d,4
+1,1-0:1.8.0*98(@1,Verbrauch 30 Tage,kWh,total_30d,4
+1,1-0:1.8.0*99(@1,Verbrauch 365 Tage,kWh,total_365d,4
+1,1-0:16.7.0*255(@1,Verbrauch aktuell,W,current,20
+1,1-0:2.8.0*255(@1,Gesamteinspeisung,kWh,total_out,4
+#

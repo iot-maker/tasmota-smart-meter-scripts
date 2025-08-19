@@ -1,0 +1,14 @@
+>D
+>B
+spinm(4 1)
+=>sensor53 r
+>M 1
++1,3,s,0,9600,sml
+1,77070100010800FF@1000,Bezug,kWh,Bezug,19
+1,77070100010801FF@1000,Bezug T1,kWh,t1_Bezug,19
+1,77070100010802FF@1000,Bezug T2,kWh,t2_Bezug,19
+1,77070100020800FF@1000,Einspeisung,kWh,Einspeisung,19
+1,77070100020801FF@1000,Einspeisung T1,kWh,t1_Einspeisung,19
+1,77070100020802FF@1000,Einspeisung T2,kWh,t2_Einspeisung,19
+1,77070100100700FF@1,aktuelle Wirkleistung,W,Leistung,16
+#

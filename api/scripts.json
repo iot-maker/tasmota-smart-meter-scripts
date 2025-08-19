@@ -1,0 +1,1366 @@
+{
+  "version": "1.0",
+  "generated": "2025-08-19T16:03:52.571347",
+  "total_scripts": 151,
+  "scripts": [
+    {
+      "id": "ABB_B-S",
+      "display_name": "ABB B-S",
+      "filename": "ABB_B-S.txt",
+      "manufacturer": "ABB",
+      "model": "B-S",
+      "protocol": "Unknown",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/ABB_B-S.txt"
+    },
+    {
+      "id": "ABB_B23",
+      "display_name": "ABB B23",
+      "filename": "ABB_B23.txt",
+      "manufacturer": "ABB",
+      "model": "B23",
+      "protocol": "Unknown",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/ABB_B23.txt"
+    },
+    {
+      "id": "AEConversion_solar_inverter_INVXXX",
+      "display_name": "AEConversion solar inverter INVXXX",
+      "filename": "AEConversion_solar_inverter_INVXXX.txt",
+      "manufacturer": "AEConversion",
+      "model": "solar inverter INVXXX",
+      "protocol": "Unknown",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/AEConversion_solar_inverter_INVXXX.txt"
+    },
+    {
+      "id": "Apator_12EC3_SML",
+      "display_name": "Apator 12EC3 (SML)",
+      "filename": "Apator_12EC3_SML.txt",
+      "manufacturer": "Apator",
+      "model": "12EC3",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Apator_12EC3_SML.txt"
+    },
+    {
+      "id": "Apator_12EC3G_SML",
+      "display_name": "Apator 12EC3G (SML)",
+      "filename": "Apator_12EC3G_SML.txt",
+      "manufacturer": "Apator",
+      "model": "12EC3G",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Apator_12EC3G_SML.txt"
+    },
+    {
+      "id": "Apator_APOX_SML",
+      "display_name": "Apator APOX (SML)",
+      "filename": "Apator_APOX_SML.txt",
+      "manufacturer": "Apator",
+      "model": "APOX",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Apator_APOX_SML.txt"
+    },
+    {
+      "id": "Apator_Lepus_SML",
+      "display_name": "Apator Lepus (SML)",
+      "filename": "Apator_Lepus_SML.txt",
+      "manufacturer": "Apator",
+      "model": "Lepus",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Apator_Lepus_SML.txt"
+    },
+    {
+      "id": "Apator_Norax_SML",
+      "display_name": "Apator Norax (SML)",
+      "filename": "Apator_Norax_SML.txt",
+      "manufacturer": "Apator",
+      "model": "Norax",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Apator_Norax_SML.txt"
+    },
+    {
+      "id": "Apator_Picus_SML",
+      "display_name": "Apator Picus (SML)",
+      "filename": "Apator_Picus_SML.txt",
+      "manufacturer": "Apator",
+      "model": "Picus",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Apator_Picus_SML.txt"
+    },
+    {
+      "id": "Apator_Picus_eHZ_060_D-J_SML",
+      "display_name": "Apator Picus eHZ.060.D-J (SML)",
+      "filename": "Apator_Picus_eHZ_060_D-J_SML.txt",
+      "manufacturer": "Apator",
+      "model": "Picus eHZ.060.D-J",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Apator_Picus_eHZ_060_D-J_SML.txt"
+    },
+    {
+      "id": "Baylan_BM_xx_OBIS",
+      "display_name": "Baylan BM xx (OBIS)",
+      "filename": "Baylan_BM_xx_OBIS.txt",
+      "manufacturer": "Baylan",
+      "model": "BM xx",
+      "protocol": "OBIS",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Baylan_BM_xx_OBIS.txt"
+    },
+    {
+      "id": "COMBO_Meter_SML",
+      "display_name": "COMBO Meter (SML)",
+      "filename": "COMBO_Meter_SML.txt",
+      "manufacturer": "COMBO",
+      "model": "Meter",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/COMBO_Meter_SML.txt"
+    },
+    {
+      "id": "Carlo_Gavazzi_EM340_MODBus",
+      "display_name": "Carlo Gavazzi EM340 (MODBus)",
+      "filename": "Carlo_Gavazzi_EM340_MODBus.txt",
+      "manufacturer": "Carlo",
+      "model": "Gavazzi EM340",
+      "protocol": "MODBus",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Carlo_Gavazzi_EM340_MODBus.txt"
+    },
+    {
+      "id": "DZG_DVS7420_SML",
+      "display_name": "DZG DVS7420 (SML)",
+      "filename": "DZG_DVS7420_SML.txt",
+      "manufacturer": "DZG",
+      "model": "DVS7420",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/DZG_DVS7420_SML.txt"
+    },
+    {
+      "id": "DZG_DVS7612_SML",
+      "display_name": "DZG DVS7612 (SML)",
+      "filename": "DZG_DVS7612_SML.txt",
+      "manufacturer": "DZG",
+      "model": "DVS7612",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/DZG_DVS7612_SML.txt"
+    },
+    {
+      "id": "DZG_DWS7410_SML",
+      "display_name": "DZG DWS7410 (SML)",
+      "filename": "DZG_DWS7410_SML.txt",
+      "manufacturer": "DZG",
+      "model": "DWS7410",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/DZG_DWS7410_SML.txt"
+    },
+    {
+      "id": "DZG_DWS7410_2V_G2_SML",
+      "display_name": "DZG DWS7410.2V.G2 (SML)",
+      "filename": "DZG_DWS7410_2V_G2_SML.txt",
+      "manufacturer": "DZG",
+      "model": "DWS7410.2V.G2",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/DZG_DWS7410_2V_G2_SML.txt"
+    },
+    {
+      "id": "DZG_DWS7412_SML",
+      "display_name": "DZG DWS7412 (SML)",
+      "filename": "DZG_DWS7412_SML.txt",
+      "manufacturer": "DZG",
+      "model": "DWS7412",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/DZG_DWS7412_SML.txt"
+    },
+    {
+      "id": "DZG_DWS7412_1_G2_SML",
+      "display_name": "DZG DWS7412.1.G2 (SML)",
+      "filename": "DZG_DWS7412_1_G2_SML.txt",
+      "manufacturer": "DZG",
+      "model": "DWS7412.1.G2",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/DZG_DWS7412_1_G2_SML.txt"
+    },
+    {
+      "id": "DZG_DWS76_SML",
+      "display_name": "DZG DWS76 (SML)",
+      "filename": "DZG_DWS76_SML.txt",
+      "manufacturer": "DZG",
+      "model": "DWS76",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/DZG_DWS76_SML.txt"
+    },
+    {
+      "id": "DZG_DWSB12_SML",
+      "display_name": "DZG DWSB12 (SML)",
+      "filename": "DZG_DWSB12_SML.txt",
+      "manufacturer": "DZG",
+      "model": "DWSB12",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/DZG_DWSB12_SML.txt"
+    },
+    {
+      "id": "DZG_DWSB12_2_SML",
+      "display_name": "DZG DWSB12.2 (SML)",
+      "filename": "DZG_DWSB12_2_SML.txt",
+      "manufacturer": "DZG",
+      "model": "DWSB12.2",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/DZG_DWSB12_2_SML.txt"
+    },
+    {
+      "id": "DZG_DWSB20_SML",
+      "display_name": "DZG DWSB20 (SML)",
+      "filename": "DZG_DWSB20_SML.txt",
+      "manufacturer": "DZG",
+      "model": "DWSB20",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/DZG_DWSB20_SML.txt"
+    },
+    {
+      "id": "DZG_DWSE20_SML",
+      "display_name": "DZG DWSE20 (SML)",
+      "filename": "DZG_DWSE20_SML.txt",
+      "manufacturer": "DZG",
+      "model": "DWSE20",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/DZG_DWSE20_SML.txt"
+    },
+    {
+      "id": "DZG_DWZE12_SML",
+      "display_name": "DZG DWZE12 (SML)",
+      "filename": "DZG_DWZE12_SML.txt",
+      "manufacturer": "DZG",
+      "model": "DWZE12",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/DZG_DWZE12_SML.txt"
+    },
+    {
+      "id": "DZG_DWZE12_2_G2_SML",
+      "display_name": "DZG DWZE12.2.G2 (SML)",
+      "filename": "DZG_DWZE12_2_G2_SML.txt",
+      "manufacturer": "DZG",
+      "model": "DWZE12.2.G2",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/DZG_DWZE12_2_G2_SML.txt"
+    },
+    {
+      "id": "DZG_WS7612_SML",
+      "display_name": "DZG WS7612 (SML)",
+      "filename": "DZG_WS7612_SML.txt",
+      "manufacturer": "DZG",
+      "model": "WS7612",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/DZG_WS7612_SML.txt"
+    },
+    {
+      "id": "Digimeto_GS303_SML",
+      "display_name": "Digimeto GS303 (SML)",
+      "filename": "Digimeto_GS303_SML.txt",
+      "manufacturer": "Digimeto",
+      "model": "GS303",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Digimeto_GS303_SML.txt"
+    },
+    {
+      "id": "EFR_SGM-C2-C4-C8_SML",
+      "display_name": "EFR SGM-C2-C4-C8 (SML)",
+      "filename": "EFR_SGM-C2-C4-C8_SML.txt",
+      "manufacturer": "EFR",
+      "model": "SGM-C2-C4-C8",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/EFR_SGM-C2-C4-C8_SML.txt"
+    },
+    {
+      "id": "EFR_SGM-C2-C4-D4_SML",
+      "display_name": "EFR SGM-C2-C4-D4 (SML)",
+      "filename": "EFR_SGM-C2-C4-D4_SML.txt",
+      "manufacturer": "EFR",
+      "model": "SGM-C2-C4-D4",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/EFR_SGM-C2-C4-D4_SML.txt"
+    },
+    {
+      "id": "EFR_SGM-D4_SML",
+      "display_name": "EFR SGM-D4 (SML)",
+      "filename": "EFR_SGM-D4_SML.txt",
+      "manufacturer": "EFR",
+      "model": "SGM-D4",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/EFR_SGM-D4_SML.txt"
+    },
+    {
+      "id": "EFR_SGM-D4A920N_SML",
+      "display_name": "EFR SGM-D4A920N (SML)",
+      "filename": "EFR_SGM-D4A920N_SML.txt",
+      "manufacturer": "EFR",
+      "model": "SGM-D4A920N",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/EFR_SGM-D4A920N_SML.txt"
+    },
+    {
+      "id": "EFR_SGM-DD_SML",
+      "display_name": "EFR SGM-DD (SML)",
+      "filename": "EFR_SGM-DD_SML.txt",
+      "manufacturer": "EFR",
+      "model": "SGM-DD",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/EFR_SGM-DD_SML.txt"
+    },
+    {
+      "id": "EFR_SGM-DD-4A92T_SML",
+      "display_name": "EFR SGM-DD-4A92T (SML)",
+      "filename": "EFR_SGM-DD-4A92T_SML.txt",
+      "manufacturer": "EFR",
+      "model": "SGM-DD-4A92T",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/EFR_SGM-DD-4A92T_SML.txt"
+    },
+    {
+      "id": "EFR_SGM-SM_SML",
+      "display_name": "EFR SGM-SM (SML)",
+      "filename": "EFR_SGM-SM_SML.txt",
+      "manufacturer": "EFR",
+      "model": "SGM-SM",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/EFR_SGM-SM_SML.txt"
+    },
+    {
+      "id": "EMH_DIZ-W1EL-00-KM0-0M-200010-E50-K_M-Bus",
+      "display_name": "EMH DIZ-W1EL-00-KM0-0M-200010-E50-K (M-Bus)",
+      "filename": "EMH_DIZ-W1EL-00-KM0-0M-200010-E50-K_M-Bus.txt",
+      "manufacturer": "EMH",
+      "model": "DIZ-W1EL-00-KM0-0M-200010-E50-K",
+      "protocol": "M-Bus",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/EMH_DIZ-W1EL-00-KM0-0M-200010-E50-K_M-Bus.txt"
+    },
+    {
+      "id": "EMH_ED300L_SML",
+      "display_name": "EMH ED300L (SML)",
+      "filename": "EMH_ED300L_SML.txt",
+      "manufacturer": "EMH",
+      "model": "ED300L",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/EMH_ED300L_SML.txt"
+    },
+    {
+      "id": "EMH_ED300S_SML",
+      "display_name": "EMH ED300S (SML)",
+      "filename": "EMH_ED300S_SML.txt",
+      "manufacturer": "EMH",
+      "model": "ED300S",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/EMH_ED300S_SML.txt"
+    },
+    {
+      "id": "EMH_EIZ-GDWL739B_M-Bus",
+      "display_name": "EMH EIZ-GDWL739B (M-Bus)",
+      "filename": "EMH_EIZ-GDWL739B_M-Bus.txt",
+      "manufacturer": "EMH",
+      "model": "EIZ-GDWL739B",
+      "protocol": "M-Bus",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/EMH_EIZ-GDWL739B_M-Bus.txt"
+    },
+    {
+      "id": "EMH_ITZ_OBIS",
+      "display_name": "EMH ITZ (OBIS)",
+      "filename": "EMH_ITZ_OBIS.txt",
+      "manufacturer": "EMH",
+      "model": "ITZ",
+      "protocol": "OBIS",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/EMH_ITZ_OBIS.txt"
+    },
+    {
+      "id": "EMH_LZQJ-XC_OBIS",
+      "display_name": "EMH LZQJ-XC (OBIS)",
+      "filename": "EMH_LZQJ-XC_OBIS.txt",
+      "manufacturer": "EMH",
+      "model": "LZQJ-XC",
+      "protocol": "OBIS",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/EMH_LZQJ-XC_OBIS.txt"
+    },
+    {
+      "id": "EMH_eBZD_SML",
+      "display_name": "EMH eBZD (SML)",
+      "filename": "EMH_eBZD_SML.txt",
+      "manufacturer": "EMH",
+      "model": "eBZD",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/EMH_eBZD_SML.txt"
+    },
+    {
+      "id": "EMH_eHZ_SML",
+      "display_name": "EMH eHZ (SML)",
+      "filename": "EMH_eHZ_SML.txt",
+      "manufacturer": "EMH",
+      "model": "eHZ",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/EMH_eHZ_SML.txt"
+    },
+    {
+      "id": "EMH_eHZ_G_SML",
+      "display_name": "EMH eHZ G (SML)",
+      "filename": "EMH_eHZ_G_SML.txt",
+      "manufacturer": "EMH",
+      "model": "eHZ G",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/EMH_eHZ_G_SML.txt"
+    },
+    {
+      "id": "EMH_eHZB_SML",
+      "display_name": "EMH eHZB (SML)",
+      "filename": "EMH_eHZB_SML.txt",
+      "manufacturer": "EMH",
+      "model": "eHZB",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/EMH_eHZB_SML.txt"
+    },
+    {
+      "id": "EMH_eHZM_SML",
+      "display_name": "EMH eHZM (SML)",
+      "filename": "EMH_eHZM_SML.txt",
+      "manufacturer": "EMH",
+      "model": "eHZM",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/EMH_eHZM_SML.txt"
+    },
+    {
+      "id": "EMH_mMe4_0_SML",
+      "display_name": "EMH mMe4.0 (SML)",
+      "filename": "EMH_mMe4_0_SML.txt",
+      "manufacturer": "EMH",
+      "model": "mMe4.0",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/EMH_mMe4_0_SML.txt"
+    },
+    {
+      "id": "EasyMeter_M100_SML",
+      "display_name": "EasyMeter M100 (SML)",
+      "filename": "EasyMeter_M100_SML.txt",
+      "manufacturer": "EasyMeter",
+      "model": "M100",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/EasyMeter_M100_SML.txt"
+    },
+    {
+      "id": "EasyMeter_M24_SML",
+      "display_name": "EasyMeter M24 (SML)",
+      "filename": "EasyMeter_M24_SML.txt",
+      "manufacturer": "EasyMeter",
+      "model": "M24",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/EasyMeter_M24_SML.txt"
+    },
+    {
+      "id": "EasyMeter_M60_SML",
+      "display_name": "EasyMeter M60 (SML)",
+      "filename": "EasyMeter_M60_SML.txt",
+      "manufacturer": "EasyMeter",
+      "model": "M60",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/EasyMeter_M60_SML.txt"
+    },
+    {
+      "id": "EasyMeter_Q1A_SML",
+      "display_name": "EasyMeter Q1A (SML)",
+      "filename": "EasyMeter_Q1A_SML.txt",
+      "manufacturer": "EasyMeter",
+      "model": "Q1A",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/EasyMeter_Q1A_SML.txt"
+    },
+    {
+      "id": "EasyMeter_Q1D_OBIS",
+      "display_name": "EasyMeter Q1D (OBIS)",
+      "filename": "EasyMeter_Q1D_OBIS.txt",
+      "manufacturer": "EasyMeter",
+      "model": "Q1D",
+      "protocol": "OBIS",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/EasyMeter_Q1D_OBIS.txt"
+    },
+    {
+      "id": "EasyMeter_Q3A_SML",
+      "display_name": "EasyMeter Q3A (SML)",
+      "filename": "EasyMeter_Q3A_SML.txt",
+      "manufacturer": "EasyMeter",
+      "model": "Q3A",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/EasyMeter_Q3A_SML.txt"
+    },
+    {
+      "id": "EasyMeter_Q3B_SML",
+      "display_name": "EasyMeter Q3B (SML)",
+      "filename": "EasyMeter_Q3B_SML.txt",
+      "manufacturer": "EasyMeter",
+      "model": "Q3B",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/EasyMeter_Q3B_SML.txt"
+    },
+    {
+      "id": "EasyMeter_Q3C_SML",
+      "display_name": "EasyMeter Q3C (SML)",
+      "filename": "EasyMeter_Q3C_SML.txt",
+      "manufacturer": "EasyMeter",
+      "model": "Q3C",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/EasyMeter_Q3C_SML.txt"
+    },
+    {
+      "id": "EasyMeter_Q3D_OBIS",
+      "display_name": "EasyMeter Q3D (OBIS)",
+      "filename": "EasyMeter_Q3D_OBIS.txt",
+      "manufacturer": "EasyMeter",
+      "model": "Q3D",
+      "protocol": "OBIS",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/EasyMeter_Q3D_OBIS.txt"
+    },
+    {
+      "id": "EasyMeter_Q3M_SML",
+      "display_name": "EasyMeter Q3M (SML)",
+      "filename": "EasyMeter_Q3M_SML.txt",
+      "manufacturer": "EasyMeter",
+      "model": "Q3M",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/EasyMeter_Q3M_SML.txt"
+    },
+    {
+      "id": "Elster_F96",
+      "display_name": "Elster F96",
+      "filename": "Elster_F96.txt",
+      "manufacturer": "Elster",
+      "model": "F96",
+      "protocol": "Unknown",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Elster_F96.txt"
+    },
+    {
+      "id": "Elster_Honeywell_AS1350_OBIS",
+      "display_name": "Elster Honeywell AS1350 (OBIS)",
+      "filename": "Elster_Honeywell_AS1350_OBIS.txt",
+      "manufacturer": "Elster",
+      "model": "Honeywell AS1350",
+      "protocol": "OBIS",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Elster_Honeywell_AS1350_OBIS.txt"
+    },
+    {
+      "id": "Elster_Honeywell_AS1440_OBIS",
+      "display_name": "Elster Honeywell AS1440 (OBIS)",
+      "filename": "Elster_Honeywell_AS1440_OBIS.txt",
+      "manufacturer": "Elster",
+      "model": "Honeywell AS1440",
+      "protocol": "OBIS",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Elster_Honeywell_AS1440_OBIS.txt"
+    },
+    {
+      "id": "Elster_Honeywell_AS1500_OBIS",
+      "display_name": "Elster Honeywell AS1500 (OBIS)",
+      "filename": "Elster_Honeywell_AS1500_OBIS.txt",
+      "manufacturer": "Elster",
+      "model": "Honeywell AS1500",
+      "protocol": "OBIS",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Elster_Honeywell_AS1500_OBIS.txt"
+    },
+    {
+      "id": "Elster_Honeywell_AS2018_OBIS",
+      "display_name": "Elster Honeywell AS2018 (OBIS)",
+      "filename": "Elster_Honeywell_AS2018_OBIS.txt",
+      "manufacturer": "Elster",
+      "model": "Honeywell AS2018",
+      "protocol": "OBIS",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Elster_Honeywell_AS2018_OBIS.txt"
+    },
+    {
+      "id": "Elster_Honeywell_AS2020_SML",
+      "display_name": "Elster Honeywell AS2020 (SML)",
+      "filename": "Elster_Honeywell_AS2020_SML.txt",
+      "manufacturer": "Elster",
+      "model": "Honeywell AS2020",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Elster_Honeywell_AS2020_SML.txt"
+    },
+    {
+      "id": "Elster_Honeywell_AS3500_OBIS",
+      "display_name": "Elster Honeywell AS3500 (OBIS)",
+      "filename": "Elster_Honeywell_AS3500_OBIS.txt",
+      "manufacturer": "Elster",
+      "model": "Honeywell AS3500",
+      "protocol": "OBIS",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Elster_Honeywell_AS3500_OBIS.txt"
+    },
+    {
+      "id": "Elster_T510_OBIS",
+      "display_name": "Elster T510 (OBIS)",
+      "filename": "Elster_T510_OBIS.txt",
+      "manufacturer": "Elster",
+      "model": "T510",
+      "protocol": "OBIS",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Elster_T510_OBIS.txt"
+    },
+    {
+      "id": "Engelmann_SensoStar_E_M-Bus",
+      "display_name": "Engelmann SensoStar E (M-Bus)",
+      "filename": "Engelmann_SensoStar_E_M-Bus.txt",
+      "manufacturer": "Engelmann",
+      "model": "SensoStar E",
+      "protocol": "M-Bus",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Engelmann_SensoStar_E_M-Bus.txt"
+    },
+    {
+      "id": "Fronius_Symo",
+      "display_name": "Fronius Symo",
+      "filename": "Fronius_Symo.txt",
+      "manufacturer": "Fronius",
+      "model": "Symo",
+      "protocol": "Unknown",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Fronius_Symo.txt"
+    },
+    {
+      "id": "Growatt_MAX4200",
+      "display_name": "Growatt MAX4200",
+      "filename": "Growatt_MAX4200.txt",
+      "manufacturer": "Growatt",
+      "model": "MAX4200",
+      "protocol": "Unknown",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Growatt_MAX4200.txt"
+    },
+    {
+      "id": "HUAWEI_R4850G2",
+      "display_name": "HUAWEI R4850G2",
+      "filename": "HUAWEI_R4850G2.txt",
+      "manufacturer": "HUAWEI",
+      "model": "R4850G2",
+      "protocol": "Unknown",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/HUAWEI_R4850G2.txt"
+    },
+    {
+      "id": "Hager_EHZ161_OBIS",
+      "display_name": "Hager EHZ161 (OBIS)",
+      "filename": "Hager_EHZ161_OBIS.txt",
+      "manufacturer": "Hager",
+      "model": "EHZ161",
+      "protocol": "OBIS",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Hager_EHZ161_OBIS.txt"
+    },
+    {
+      "id": "Hager_EHZ361_OBIS",
+      "display_name": "Hager EHZ361 (OBIS)",
+      "filename": "Hager_EHZ361_OBIS.txt",
+      "manufacturer": "Hager",
+      "model": "EHZ361",
+      "protocol": "OBIS",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Hager_EHZ361_OBIS.txt"
+    },
+    {
+      "id": "Hager_EHZ363_SML",
+      "display_name": "Hager EHZ363 (SML)",
+      "filename": "Hager_EHZ363_SML.txt",
+      "manufacturer": "Hager",
+      "model": "EHZ363",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Hager_EHZ363_SML.txt"
+    },
+    {
+      "id": "Hausheld_HBZ100_SML",
+      "display_name": "Hausheld HBZ100 (SML)",
+      "filename": "Hausheld_HBZ100_SML.txt",
+      "manufacturer": "Hausheld",
+      "model": "HBZ100",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Hausheld_HBZ100_SML.txt"
+    },
+    {
+      "id": "Hichi_IR_M-Bus",
+      "display_name": "Hichi IR (M-Bus)",
+      "filename": "Hichi_IR_M-Bus.txt",
+      "manufacturer": "Hichi",
+      "model": "IR",
+      "protocol": "M-Bus",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Hichi_IR_M-Bus.txt"
+    },
+    {
+      "id": "Hichi_IR_SML",
+      "display_name": "Hichi IR (SML)",
+      "filename": "Hichi_IR_SML.txt",
+      "manufacturer": "Hichi",
+      "model": "IR",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Hichi_IR_SML.txt"
+    },
+    {
+      "id": "Hiking_DDS238-2",
+      "display_name": "Hiking DDS238-2",
+      "filename": "Hiking_DDS238-2.txt",
+      "manufacturer": "Hiking",
+      "model": "DDS238-2",
+      "protocol": "Unknown",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Hiking_DDS238-2.txt"
+    },
+    {
+      "id": "Holley_DDZ285_SML",
+      "display_name": "Holley DDZ285 (SML)",
+      "filename": "Holley_DDZ285_SML.txt",
+      "manufacturer": "Holley",
+      "model": "DDZ285",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Holley_DDZ285_SML.txt"
+    },
+    {
+      "id": "Holley_DTZ541_SML",
+      "display_name": "Holley DTZ541 (SML)",
+      "filename": "Holley_DTZ541_SML.txt",
+      "manufacturer": "Holley",
+      "model": "DTZ541",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Holley_DTZ541_SML.txt"
+    },
+    {
+      "id": "Holley_DTZ541-ZDBA_SML",
+      "display_name": "Holley DTZ541-ZDBA (SML)",
+      "filename": "Holley_DTZ541-ZDBA_SML.txt",
+      "manufacturer": "Holley",
+      "model": "DTZ541-ZDBA",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Holley_DTZ541-ZDBA_SML.txt"
+    },
+    {
+      "id": "Holley_EHZ541_SML",
+      "display_name": "Holley EHZ541 (SML)",
+      "filename": "Holley_EHZ541_SML.txt",
+      "manufacturer": "Holley",
+      "model": "EHZ541",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Holley_EHZ541_SML.txt"
+    },
+    {
+      "id": "Holley_EHZ541-BE_SML",
+      "display_name": "Holley EHZ541-BE (SML)",
+      "filename": "Holley_EHZ541-BE_SML.txt",
+      "manufacturer": "Holley",
+      "model": "EHZ541-BE",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Holley_EHZ541-BE_SML.txt"
+    },
+    {
+      "id": "Honeywell_AS1440_OBIS",
+      "display_name": "Honeywell AS1440 (OBIS)",
+      "filename": "Honeywell_AS1440_OBIS.txt",
+      "manufacturer": "Honeywell",
+      "model": "AS1440",
+      "protocol": "OBIS",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Honeywell_AS1440_OBIS.txt"
+    },
+    {
+      "id": "Honeywell_AS2020_SML",
+      "display_name": "Honeywell AS2020 (SML)",
+      "filename": "Honeywell_AS2020_SML.txt",
+      "manufacturer": "Honeywell",
+      "model": "AS2020",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Honeywell_AS2020_SML.txt"
+    },
+    {
+      "id": "Huawei_SUN2000-10KTL_SML",
+      "display_name": "Huawei SUN2000-10KTL (SML)",
+      "filename": "Huawei_SUN2000-10KTL_SML.txt",
+      "manufacturer": "Huawei",
+      "model": "SUN2000-10KTL",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Huawei_SUN2000-10KTL_SML.txt"
+    },
+    {
+      "id": "Iskra_AM550_OBIS",
+      "display_name": "Iskra AM550 (OBIS)",
+      "filename": "Iskra_AM550_OBIS.txt",
+      "manufacturer": "Iskra",
+      "model": "AM550",
+      "protocol": "OBIS",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Iskra_AM550_OBIS.txt"
+    },
+    {
+      "id": "Iskra_MT_OBIS",
+      "display_name": "Iskra MT (OBIS)",
+      "filename": "Iskra_MT_OBIS.txt",
+      "manufacturer": "Iskra",
+      "model": "MT",
+      "protocol": "OBIS",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Iskra_MT_OBIS.txt"
+    },
+    {
+      "id": "Iskra_MT_SML",
+      "display_name": "Iskra MT (SML)",
+      "filename": "Iskra_MT_SML.txt",
+      "manufacturer": "Iskra",
+      "model": "MT",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Iskra_MT_SML.txt"
+    },
+    {
+      "id": "Iskra_eHZ-MS2020_SML",
+      "display_name": "Iskra eHZ-MS2020 (SML)",
+      "filename": "Iskra_eHZ-MS2020_SML.txt",
+      "manufacturer": "Iskra",
+      "model": "eHZ-MS2020",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Iskra_eHZ-MS2020_SML.txt"
+    },
+    {
+      "id": "Iskra_eHZ-MT681-D4A51-K0_SML",
+      "display_name": "Iskra eHZ-MT681-D4A51-K0 (SML)",
+      "filename": "Iskra_eHZ-MT681-D4A51-K0_SML.txt",
+      "manufacturer": "Iskra",
+      "model": "eHZ-MT681-D4A51-K0",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Iskra_eHZ-MT681-D4A51-K0_SML.txt"
+    },
+    {
+      "id": "Iskra_eHZ-MT681-D4A52-K0_SML",
+      "display_name": "Iskra eHZ-MT681-D4A52-K0 (SML)",
+      "filename": "Iskra_eHZ-MT681-D4A52-K0_SML.txt",
+      "manufacturer": "Iskra",
+      "model": "eHZ-MT681-D4A52-K0",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Iskra_eHZ-MT681-D4A52-K0_SML.txt"
+    },
+    {
+      "id": "Itron_ACE3000_OBIS",
+      "display_name": "Itron ACE3000 (OBIS)",
+      "filename": "Itron_ACE3000_OBIS.txt",
+      "manufacturer": "Itron",
+      "model": "ACE3000",
+      "protocol": "OBIS",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Itron_ACE3000_OBIS.txt"
+    },
+    {
+      "id": "Itron_ACE6000_OBIS",
+      "display_name": "Itron ACE6000 (OBIS)",
+      "filename": "Itron_ACE6000_OBIS.txt",
+      "manufacturer": "Itron",
+      "model": "ACE6000",
+      "protocol": "OBIS",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Itron_ACE6000_OBIS.txt"
+    },
+    {
+      "id": "Itron_CF_Echo_II_SML",
+      "display_name": "Itron CF Echo II (SML)",
+      "filename": "Itron_CF_Echo_II_SML.txt",
+      "manufacturer": "Itron",
+      "model": "CF Echo II",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Itron_CF_Echo_II_SML.txt"
+    },
+    {
+      "id": "Itron_HZ1_OBIS",
+      "display_name": "Itron HZ1 (OBIS)",
+      "filename": "Itron_HZ1_OBIS.txt",
+      "manufacturer": "Itron",
+      "model": "HZ1",
+      "protocol": "OBIS",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Itron_HZ1_OBIS.txt"
+    },
+    {
+      "id": "Itron_eHZ_SML",
+      "display_name": "Itron eHZ (SML)",
+      "filename": "Itron_eHZ_SML.txt",
+      "manufacturer": "Itron",
+      "model": "eHZ",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Itron_eHZ_SML.txt"
+    },
+    {
+      "id": "JANZ_C3801_OBIS",
+      "display_name": "JANZ C3801 (OBIS)",
+      "filename": "JANZ_C3801_OBIS.txt",
+      "manufacturer": "JANZ",
+      "model": "C3801",
+      "protocol": "OBIS",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/JANZ_C3801_OBIS.txt"
+    },
+    {
+      "id": "Janitza_B23",
+      "display_name": "Janitza B23",
+      "filename": "Janitza_B23.txt",
+      "manufacturer": "Janitza",
+      "model": "B23",
+      "protocol": "Unknown",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Janitza_B23.txt"
+    },
+    {
+      "id": "KAIFA_MB310_SML",
+      "display_name": "KAIFA MB310 (SML)",
+      "filename": "KAIFA_MB310_SML.txt",
+      "manufacturer": "KAIFA",
+      "model": "MB310",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/KAIFA_MB310_SML.txt"
+    },
+    {
+      "id": "KAIFA_MB310H4BDE_SML",
+      "display_name": "KAIFA MB310H4BDE (SML)",
+      "filename": "KAIFA_MB310H4BDE_SML.txt",
+      "manufacturer": "KAIFA",
+      "model": "MB310H4BDE",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/KAIFA_MB310H4BDE_SML.txt"
+    },
+    {
+      "id": "Kamstrup_382_OBIS",
+      "display_name": "Kamstrup 382 (OBIS)",
+      "filename": "Kamstrup_382_OBIS.txt",
+      "manufacturer": "Kamstrup",
+      "model": "382",
+      "protocol": "OBIS",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Kamstrup_382_OBIS.txt"
+    },
+    {
+      "id": "Kamstrup_382L",
+      "display_name": "Kamstrup 382L",
+      "filename": "Kamstrup_382L.txt",
+      "manufacturer": "Kamstrup",
+      "model": "382L",
+      "protocol": "Unknown",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Kamstrup_382L.txt"
+    },
+    {
+      "id": "Kamstrup_Multical_M401_SML",
+      "display_name": "Kamstrup Multical M401 (SML)",
+      "filename": "Kamstrup_Multical_M401_SML.txt",
+      "manufacturer": "Kamstrup",
+      "model": "Multical M401",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Kamstrup_Multical_M401_SML.txt"
+    },
+    {
+      "id": "Kamstrup_Multical",
+      "display_name": "Kamstrup Multical",
+      "filename": "Kamstrup_Multical.txt",
+      "manufacturer": "Kamstrup",
+      "model": "Multical",
+      "protocol": "Unknown",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Kamstrup_Multical.txt"
+    },
+    {
+      "id": "Landis_Gyr_E220_SML",
+      "display_name": "Landis + Gyr E220 (SML)",
+      "filename": "Landis_Gyr_E220_SML.txt",
+      "manufacturer": "Landis",
+      "model": "+ Gyr E220",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Landis_Gyr_E220_SML.txt"
+    },
+    {
+      "id": "Landis_Gyr_E230_OBIS",
+      "display_name": "Landis + Gyr E230 (OBIS)",
+      "filename": "Landis_Gyr_E230_OBIS.txt",
+      "manufacturer": "Landis",
+      "model": "+ Gyr E230",
+      "protocol": "OBIS",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Landis_Gyr_E230_OBIS.txt"
+    },
+    {
+      "id": "Landis_Gyr_E320_SML",
+      "display_name": "Landis + Gyr E320 (SML)",
+      "filename": "Landis_Gyr_E320_SML.txt",
+      "manufacturer": "Landis",
+      "model": "+ Gyr E320",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Landis_Gyr_E320_SML.txt"
+    },
+    {
+      "id": "Landis_Gyr_E350_OBIS",
+      "display_name": "Landis + Gyr E350 (OBIS)",
+      "filename": "Landis_Gyr_E350_OBIS.txt",
+      "manufacturer": "Landis",
+      "model": "+ Gyr E350",
+      "protocol": "OBIS",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Landis_Gyr_E350_OBIS.txt"
+    },
+    {
+      "id": "Landis_Gyr_E450",
+      "display_name": "Landis + Gyr E450",
+      "filename": "Landis_Gyr_E450.txt",
+      "manufacturer": "Landis",
+      "model": "+ Gyr E450",
+      "protocol": "Unknown",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Landis_Gyr_E450.txt"
+    },
+    {
+      "id": "Landis_Gyr_E650_OBIS",
+      "display_name": "Landis + Gyr E650 (OBIS)",
+      "filename": "Landis_Gyr_E650_OBIS.txt",
+      "manufacturer": "Landis",
+      "model": "+ Gyr E650",
+      "protocol": "OBIS",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Landis_Gyr_E650_OBIS.txt"
+    },
+    {
+      "id": "Landis_Gyr_T550_OBIS",
+      "display_name": "Landis + Gyr T550 (OBIS)",
+      "filename": "Landis_Gyr_T550_OBIS.txt",
+      "manufacturer": "Landis",
+      "model": "+ Gyr T550",
+      "protocol": "OBIS",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Landis_Gyr_T550_OBIS.txt"
+    },
+    {
+      "id": "Landis_Gyr_ZMB120_OBIS",
+      "display_name": "Landis + Gyr ZMB120 (OBIS)",
+      "filename": "Landis_Gyr_ZMB120_OBIS.txt",
+      "manufacturer": "Landis",
+      "model": "+ Gyr ZMB120",
+      "protocol": "OBIS",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Landis_Gyr_ZMB120_OBIS.txt"
+    },
+    {
+      "id": "Landis_Gyr_ZMD120_OBIS",
+      "display_name": "Landis + Gyr ZMD120 (OBIS)",
+      "filename": "Landis_Gyr_ZMD120_OBIS.txt",
+      "manufacturer": "Landis",
+      "model": "+ Gyr ZMD120",
+      "protocol": "OBIS",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Landis_Gyr_ZMD120_OBIS.txt"
+    },
+    {
+      "id": "Landis_Gyr_ZMR120AReS2R2sfCS_OBIS",
+      "display_name": "Landis + Gyr ZMR120AReS2R2sfCS (OBIS)",
+      "filename": "Landis_Gyr_ZMR120AReS2R2sfCS_OBIS.txt",
+      "manufacturer": "Landis",
+      "model": "+ Gyr ZMR120AReS2R2sfCS",
+      "protocol": "OBIS",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Landis_Gyr_ZMR120AReS2R2sfCS_OBIS.txt"
+    },
+    {
+      "id": "Latronic_L20_SML",
+      "display_name": "Latronic L20 (SML)",
+      "filename": "Latronic_L20_SML.txt",
+      "manufacturer": "Latronic",
+      "model": "L20",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Latronic_L20_SML.txt"
+    },
+    {
+      "id": "Logarex_LK11BL_OBIS",
+      "display_name": "Logarex LK11BL (OBIS)",
+      "filename": "Logarex_LK11BL_OBIS.txt",
+      "manufacturer": "Logarex",
+      "model": "LK11BL",
+      "protocol": "OBIS",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Logarex_LK11BL_OBIS.txt"
+    },
+    {
+      "id": "Logarex_LK13BD_OBIS",
+      "display_name": "Logarex LK13BD (OBIS)",
+      "filename": "Logarex_LK13BD_OBIS.txt",
+      "manufacturer": "Logarex",
+      "model": "LK13BD",
+      "protocol": "OBIS",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Logarex_LK13BD_OBIS.txt"
+    },
+    {
+      "id": "Logarex_LK13BE_SML",
+      "display_name": "Logarex LK13BE (SML)",
+      "filename": "Logarex_LK13BE_SML.txt",
+      "manufacturer": "Logarex",
+      "model": "LK13BE",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Logarex_LK13BE_SML.txt"
+    },
+    {
+      "id": "Logarex_LK13BE803039_OBIS",
+      "display_name": "Logarex LK13BE803039 (OBIS)",
+      "filename": "Logarex_LK13BE803039_OBIS.txt",
+      "manufacturer": "Logarex",
+      "model": "LK13BE803039",
+      "protocol": "OBIS",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Logarex_LK13BE803039_OBIS.txt"
+    },
+    {
+      "id": "Logarex_LK13BE803319_OBIS",
+      "display_name": "Logarex LK13BE803319 (OBIS)",
+      "filename": "Logarex_LK13BE803319_OBIS.txt",
+      "manufacturer": "Logarex",
+      "model": "LK13BE803319",
+      "protocol": "OBIS",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Logarex_LK13BE803319_OBIS.txt"
+    },
+    {
+      "id": "Logarex_LK13BE803xxx_OBIS",
+      "display_name": "Logarex LK13BE803xxx (OBIS)",
+      "filename": "Logarex_LK13BE803xxx_OBIS.txt",
+      "manufacturer": "Logarex",
+      "model": "LK13BE803xxx",
+      "protocol": "OBIS",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Logarex_LK13BE803xxx_OBIS.txt"
+    },
+    {
+      "id": "Logarex_LK13BO_OBIS",
+      "display_name": "Logarex LK13BO (OBIS)",
+      "filename": "Logarex_LK13BO_OBIS.txt",
+      "manufacturer": "Logarex",
+      "model": "LK13BO",
+      "protocol": "OBIS",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Logarex_LK13BO_OBIS.txt"
+    },
+    {
+      "id": "Metcom_MCS301_OBIS",
+      "display_name": "Metcom MCS301 (OBIS)",
+      "filename": "Metcom_MCS301_OBIS.txt",
+      "manufacturer": "Metcom",
+      "model": "MCS301",
+      "protocol": "OBIS",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Metcom_MCS301_OBIS.txt"
+    },
+    {
+      "id": "PAFAL_20EC3_OBIS",
+      "display_name": "PAFAL 20EC3 (OBIS)",
+      "filename": "PAFAL_20EC3_OBIS.txt",
+      "manufacturer": "PAFAL",
+      "model": "20EC3",
+      "protocol": "OBIS",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/PAFAL_20EC3_OBIS.txt"
+    },
+    {
+      "id": "Peacefair_PZEM004TV30",
+      "display_name": "Peacefair PZEM004TV30",
+      "filename": "Peacefair_PZEM004TV30.txt",
+      "manufacturer": "Peacefair",
+      "model": "PZEM004TV30",
+      "protocol": "Unknown",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Peacefair_PZEM004TV30.txt"
+    },
+    {
+      "id": "Peacefair_PZEM004TV4_0_SML",
+      "display_name": "Peacefair PZEM004TV4.0 (SML)",
+      "filename": "Peacefair_PZEM004TV4_0_SML.txt",
+      "manufacturer": "Peacefair",
+      "model": "PZEM004TV4.0",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Peacefair_PZEM004TV4_0_SML.txt"
+    },
+    {
+      "id": "Resol_Deltasol_BS_Plus",
+      "display_name": "Resol Deltasol BS Plus",
+      "filename": "Resol_Deltasol_BS_Plus.txt",
+      "manufacturer": "Resol",
+      "model": "Deltasol BS Plus",
+      "protocol": "Unknown",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Resol_Deltasol_BS_Plus.txt"
+    },
+    {
+      "id": "SBC_ALE3",
+      "display_name": "SBC ALE3",
+      "filename": "SBC_ALE3.txt",
+      "manufacturer": "SBC",
+      "model": "ALE3",
+      "protocol": "Unknown",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/SBC_ALE3.txt"
+    },
+    {
+      "id": "SMA_Solar_Inverter_SML",
+      "display_name": "SMA Solar Inverter (SML)",
+      "filename": "SMA_Solar_Inverter_SML.txt",
+      "manufacturer": "SMA",
+      "model": "Solar Inverter",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/SMA_Solar_Inverter_SML.txt"
+    },
+    {
+      "id": "SML_V1_04_SML",
+      "display_name": "SML V1.04 (SML)",
+      "filename": "SML_V1_04_SML.txt",
+      "manufacturer": "SML",
+      "model": "V1.04",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/SML_V1_04_SML.txt"
+    },
+    {
+      "id": "Sagemcom_MA105-MA304_OBIS",
+      "display_name": "Sagemcom MA105-MA304 (OBIS)",
+      "filename": "Sagemcom_MA105-MA304_OBIS.txt",
+      "manufacturer": "Sagemcom",
+      "model": "MA105-MA304",
+      "protocol": "OBIS",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Sagemcom_MA105-MA304_OBIS.txt"
+    },
+    {
+      "id": "Sagemcom_Smarty_BZ-P_SML",
+      "display_name": "Sagemcom Smarty BZ-P (SML)",
+      "filename": "Sagemcom_Smarty_BZ-P_SML.txt",
+      "manufacturer": "Sagemcom",
+      "model": "Smarty BZ-P",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Sagemcom_Smarty_BZ-P_SML.txt"
+    },
+    {
+      "id": "Sanxing_SX6x1_OBIS",
+      "display_name": "Sanxing SX6x1 (OBIS)",
+      "filename": "Sanxing_SX6x1_OBIS.txt",
+      "manufacturer": "Sanxing",
+      "model": "SX6x1",
+      "protocol": "OBIS",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Sanxing_SX6x1_OBIS.txt"
+    },
+    {
+      "id": "Schneider_iEM3150_MODBus",
+      "display_name": "Schneider iEM3150 (MODBus)",
+      "filename": "Schneider_iEM3150_MODBus.txt",
+      "manufacturer": "Schneider",
+      "model": "iEM3150",
+      "protocol": "MODBus",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Schneider_iEM3150_MODBus.txt"
+    },
+    {
+      "id": "Schneider_iEM3155",
+      "display_name": "Schneider iEM3155",
+      "filename": "Schneider_iEM3155.txt",
+      "manufacturer": "Schneider",
+      "model": "iEM3155",
+      "protocol": "Unknown",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Schneider_iEM3155.txt"
+    },
+    {
+      "id": "Shelly_PRO_SML",
+      "display_name": "Shelly PRO (SML)",
+      "filename": "Shelly_PRO_SML.txt",
+      "manufacturer": "Shelly",
+      "model": "PRO",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Shelly_PRO_SML.txt"
+    },
+    {
+      "id": "Siemens_IM-350_SML",
+      "display_name": "Siemens IM-350 (SML)",
+      "filename": "Siemens_IM-350_SML.txt",
+      "manufacturer": "Siemens",
+      "model": "IM-350",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Siemens_IM-350_SML.txt"
+    },
+    {
+      "id": "Siemens_TD-3511_SML",
+      "display_name": "Siemens TD-3511 (SML)",
+      "filename": "Siemens_TD-3511_SML.txt",
+      "manufacturer": "Siemens",
+      "model": "TD-3511",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Siemens_TD-3511_SML.txt"
+    },
+    {
+      "id": "Sorel_LTDC",
+      "display_name": "Sorel LTDC",
+      "filename": "Sorel_LTDC.txt",
+      "manufacturer": "Sorel",
+      "model": "LTDC",
+      "protocol": "Unknown",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Sorel_LTDC.txt"
+    },
+    {
+      "id": "Sorel_XHCC",
+      "display_name": "Sorel XHCC",
+      "filename": "Sorel_XHCC.txt",
+      "manufacturer": "Sorel",
+      "model": "XHCC",
+      "protocol": "Unknown",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Sorel_XHCC.txt"
+    },
+    {
+      "id": "Trovis_557_SML",
+      "display_name": "Trovis 557 (SML)",
+      "filename": "Trovis_557_SML.txt",
+      "manufacturer": "Trovis",
+      "model": "557",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/Trovis_557_SML.txt"
+    },
+    {
+      "id": "WOLF_CSZ_SML",
+      "display_name": "WOLF CSZ (SML)",
+      "filename": "WOLF_CSZ_SML.txt",
+      "manufacturer": "WOLF",
+      "model": "CSZ",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/WOLF_CSZ_SML.txt"
+    },
+    {
+      "id": "ZPA_GH302_SML",
+      "display_name": "ZPA GH302 (SML)",
+      "filename": "ZPA_GH302_SML.txt",
+      "manufacturer": "ZPA",
+      "model": "GH302",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/ZPA_GH302_SML.txt"
+    },
+    {
+      "id": "ZPA_GH305_SML",
+      "display_name": "ZPA GH305 (SML)",
+      "filename": "ZPA_GH305_SML.txt",
+      "manufacturer": "ZPA",
+      "model": "GH305",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/ZPA_GH305_SML.txt"
+    },
+    {
+      "id": "ZPA_GS303_SML",
+      "display_name": "ZPA GS303 (SML)",
+      "filename": "ZPA_GS303_SML.txt",
+      "manufacturer": "ZPA",
+      "model": "GS303",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/ZPA_GS303_SML.txt"
+    },
+    {
+      "id": "ZPA_ZE311_OBIS",
+      "display_name": "ZPA ZE311 (OBIS)",
+      "filename": "ZPA_ZE311_OBIS.txt",
+      "manufacturer": "ZPA",
+      "model": "ZE311",
+      "protocol": "OBIS",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/ZPA_ZE311_OBIS.txt"
+    },
+    {
+      "id": "ZPA_ZE314_OBIS",
+      "display_name": "ZPA ZE314 (OBIS)",
+      "filename": "ZPA_ZE314_OBIS.txt",
+      "manufacturer": "ZPA",
+      "model": "ZE314",
+      "protocol": "OBIS",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/ZPA_ZE314_OBIS.txt"
+    },
+    {
+      "id": "eBZ_DD3_OBIS",
+      "display_name": "eBZ DD3 (OBIS)",
+      "filename": "eBZ_DD3_OBIS.txt",
+      "manufacturer": "eBZ",
+      "model": "DD3",
+      "protocol": "OBIS",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/eBZ_DD3_OBIS.txt"
+    },
+    {
+      "id": "eBZ_DD3_SML",
+      "display_name": "eBZ DD3 (SML)",
+      "filename": "eBZ_DD3_SML.txt",
+      "manufacturer": "eBZ",
+      "model": "DD3",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/eBZ_DD3_SML.txt"
+    },
+    {
+      "id": "eBZ_MD3_SML",
+      "display_name": "eBZ MD3 (SML)",
+      "filename": "eBZ_MD3_SML.txt",
+      "manufacturer": "eBZ",
+      "model": "MD3",
+      "protocol": "SML",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/eBZ_MD3_SML.txt"
+    },
+    {
+      "id": "inepro_Metering_PRO380-MB",
+      "display_name": "inepro Metering PRO380-MB",
+      "filename": "inepro_Metering_PRO380-MB.txt",
+      "manufacturer": "inepro",
+      "model": "Metering PRO380-MB",
+      "protocol": "Unknown",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/inepro_Metering_PRO380-MB.txt"
+    },
+    {
+      "id": "inepro_PRO380-M_MODBus",
+      "display_name": "inepro PRO380-M (MODBus)",
+      "filename": "inepro_PRO380-M_MODBus.txt",
+      "manufacturer": "inepro",
+      "model": "PRO380-M",
+      "protocol": "MODBus",
+      "url": "https://raw.githubusercontent.com/USER/REPO/main/scripts/inepro_PRO380-M_MODBus.txt"
+    }
+  ]
+}

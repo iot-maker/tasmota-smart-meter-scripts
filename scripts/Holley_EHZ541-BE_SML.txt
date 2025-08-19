@@ -1,0 +1,10 @@
+>D
+>B
+->sensor53 r
+>M 1
++1,3,s,16,9600,SML
+1,77070100600100ff@#,Server ID,,server_id,0
+1,77070100010800ff@1000,Consumption (Total),kWh,total_kwh,4
+1,=so1,00010800,65,11,65,11,00100700
+1,77070100100700ff@1,Consumption (Current),W,curr_w,0
+#

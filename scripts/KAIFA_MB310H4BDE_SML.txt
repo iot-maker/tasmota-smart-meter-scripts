@@ -1,0 +1,10 @@
+>D
+>B
+=>sensor53 r
+>M 1
++1,3,s,0,9600,Haus
+1,77070100010800ff@1000,Zaehlerstand In,kWh,Total_in,2
+1,77070100020800ff@1000,Zaehlerstand Out,kWh,Total_out,2
+1,77070100100700ff@1,Leistung-akt.,W,Power_curr,0
+1,77070100600100ff@#,Server-ID,,Meter_Number,0
+#

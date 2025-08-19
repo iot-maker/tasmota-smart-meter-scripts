@@ -1,0 +1,10 @@
+>D
+>B
+=>sensor53 r
+>M 1
++1,3,s,16,9600,DWS7410
+1,77070100010800ff@1000,Energie,kWh,energy,0
+1,7707010060320101@#,Service ID,,meter_id,0
+1,77010b0a01445a47@#,Unbekannt,,unknown,0
+1,77070100600100ff@#,Zählernummer,,meter_number,0
+#

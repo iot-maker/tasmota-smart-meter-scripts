@@ -1,0 +1,32 @@
+>D
+>B
+->sensor53 r
+>M 3
++1,1,c,0,10,H20
++2,4,c,0,50,GAS
++3,3,s,0,9600,SML
+1,1-0:1.8.0*255(@10000,Water reading,cbm,Count,4
+2,=h==================
+2,1-0:1.8.0*255(@100,Gas reading,cbm,Count,3
+3,77070100010800ff@1000,Total consumption,kWh,Total_in,3
+3,=h==================
+3,77070100100700ff@1,Current consumption,W,Power_curr,2
+3,=h   ----
+3,=m 10+11+12 @100,Currents L1+L2+L3,A,Curr_summ,2
+3,=m 13+14+15/#3 @100,Voltage L1+L2+L3/3,V,Volt_avg,2
+3,=h==================
+3,77070100240700ff@1,Consumption P1,W,Power_p1,2
+3,77070100380700ff@1,Consumption P2,W,Power_p2,2
+3,770701004c0700ff@1,Consumption P3,W,Power_p3,2
+3,=h   ----
+3,770701001f0700ff@100,Current L1,A,Curr_p1,2
+3,77070100330700ff@100,Current L2,A,Curr_p2,2
+3,77070100470700ff@100,Current L3,A,Curr_p3,2
+3,=h   ----
+3,77070100200700ff@100,Voltage L1,V,Volt_p1,2
+3,77070100340700ff@100,Voltage L2,V,Volt_p2,2
+3,77070100480700ff@100,Voltage L3,V,Volt_p3,2
+3,=h==================
+3,77070100000009ff@#,Service ID,,Meter_id,0
+3,=h
+#

@@ -1,0 +1,609 @@
+{
+  "version": "1.0",
+  "scripts": [
+    {
+      "name": "ABB B-S",
+      "filename": "ABB_B-S.txt"
+    },
+    {
+      "name": "ABB B23",
+      "filename": "ABB_B23.txt"
+    },
+    {
+      "name": "AEConversion solar inverter INVXXX",
+      "filename": "AEConversion_solar_inverter_INVXXX.txt"
+    },
+    {
+      "name": "Apator 12EC3 (SML)",
+      "filename": "Apator_12EC3_SML.txt"
+    },
+    {
+      "name": "Apator 12EC3G (SML)",
+      "filename": "Apator_12EC3G_SML.txt"
+    },
+    {
+      "name": "Apator APOX (SML)",
+      "filename": "Apator_APOX_SML.txt"
+    },
+    {
+      "name": "Apator Lepus (SML)",
+      "filename": "Apator_Lepus_SML.txt"
+    },
+    {
+      "name": "Apator Norax (SML)",
+      "filename": "Apator_Norax_SML.txt"
+    },
+    {
+      "name": "Apator Picus (SML)",
+      "filename": "Apator_Picus_SML.txt"
+    },
+    {
+      "name": "Apator Picus eHZ.060.D-J (SML)",
+      "filename": "Apator_Picus_eHZ_060_D-J_SML.txt"
+    },
+    {
+      "name": "Baylan BM xx (OBIS)",
+      "filename": "Baylan_BM_xx_OBIS.txt"
+    },
+    {
+      "name": "COMBO Meter (SML)",
+      "filename": "COMBO_Meter_SML.txt"
+    },
+    {
+      "name": "Carlo Gavazzi EM340 (MODBus)",
+      "filename": "Carlo_Gavazzi_EM340_MODBus.txt"
+    },
+    {
+      "name": "DZG DVS7420 (SML)",
+      "filename": "DZG_DVS7420_SML.txt"
+    },
+    {
+      "name": "DZG DVS7612 (SML)",
+      "filename": "DZG_DVS7612_SML.txt"
+    },
+    {
+      "name": "DZG DWS7410 (SML)",
+      "filename": "DZG_DWS7410_SML.txt"
+    },
+    {
+      "name": "DZG DWS7410.2V.G2 (SML)",
+      "filename": "DZG_DWS7410_2V_G2_SML.txt"
+    },
+    {
+      "name": "DZG DWS7412 (SML)",
+      "filename": "DZG_DWS7412_SML.txt"
+    },
+    {
+      "name": "DZG DWS7412.1.G2 (SML)",
+      "filename": "DZG_DWS7412_1_G2_SML.txt"
+    },
+    {
+      "name": "DZG DWS76 (SML)",
+      "filename": "DZG_DWS76_SML.txt"
+    },
+    {
+      "name": "DZG DWSB12 (SML)",
+      "filename": "DZG_DWSB12_SML.txt"
+    },
+    {
+      "name": "DZG DWSB12.2 (SML)",
+      "filename": "DZG_DWSB12_2_SML.txt"
+    },
+    {
+      "name": "DZG DWSB20 (SML)",
+      "filename": "DZG_DWSB20_SML.txt"
+    },
+    {
+      "name": "DZG DWSE20 (SML)",
+      "filename": "DZG_DWSE20_SML.txt"
+    },
+    {
+      "name": "DZG DWZE12 (SML)",
+      "filename": "DZG_DWZE12_SML.txt"
+    },
+    {
+      "name": "DZG DWZE12.2.G2 (SML)",
+      "filename": "DZG_DWZE12_2_G2_SML.txt"
+    },
+    {
+      "name": "DZG WS7612 (SML)",
+      "filename": "DZG_WS7612_SML.txt"
+    },
+    {
+      "name": "Digimeto GS303 (SML)",
+      "filename": "Digimeto_GS303_SML.txt"
+    },
+    {
+      "name": "EFR SGM-C2-C4-C8 (SML)",
+      "filename": "EFR_SGM-C2-C4-C8_SML.txt"
+    },
+    {
+      "name": "EFR SGM-C2-C4-D4 (SML)",
+      "filename": "EFR_SGM-C2-C4-D4_SML.txt"
+    },
+    {
+      "name": "EFR SGM-D4 (SML)",
+      "filename": "EFR_SGM-D4_SML.txt"
+    },
+    {
+      "name": "EFR SGM-D4A920N (SML)",
+      "filename": "EFR_SGM-D4A920N_SML.txt"
+    },
+    {
+      "name": "EFR SGM-DD (SML)",
+      "filename": "EFR_SGM-DD_SML.txt"
+    },
+    {
+      "name": "EFR SGM-DD-4A92T (SML)",
+      "filename": "EFR_SGM-DD-4A92T_SML.txt"
+    },
+    {
+      "name": "EFR SGM-SM (SML)",
+      "filename": "EFR_SGM-SM_SML.txt"
+    },
+    {
+      "name": "EMH DIZ-W1EL-00-KM0-0M-200010-E50-K (M-Bus)",
+      "filename": "EMH_DIZ-W1EL-00-KM0-0M-200010-E50-K_M-Bus.txt"
+    },
+    {
+      "name": "EMH ED300L (SML)",
+      "filename": "EMH_ED300L_SML.txt"
+    },
+    {
+      "name": "EMH ED300S (SML)",
+      "filename": "EMH_ED300S_SML.txt"
+    },
+    {
+      "name": "EMH EIZ-GDWL739B (M-Bus)",
+      "filename": "EMH_EIZ-GDWL739B_M-Bus.txt"
+    },
+    {
+      "name": "EMH ITZ (OBIS)",
+      "filename": "EMH_ITZ_OBIS.txt"
+    },
+    {
+      "name": "EMH LZQJ-XC (OBIS)",
+      "filename": "EMH_LZQJ-XC_OBIS.txt"
+    },
+    {
+      "name": "EMH eBZD (SML)",
+      "filename": "EMH_eBZD_SML.txt"
+    },
+    {
+      "name": "EMH eHZ (SML)",
+      "filename": "EMH_eHZ_SML.txt"
+    },
+    {
+      "name": "EMH eHZ G (SML)",
+      "filename": "EMH_eHZ_G_SML.txt"
+    },
+    {
+      "name": "EMH eHZB (SML)",
+      "filename": "EMH_eHZB_SML.txt"
+    },
+    {
+      "name": "EMH eHZM (SML)",
+      "filename": "EMH_eHZM_SML.txt"
+    },
+    {
+      "name": "EMH mMe4.0 (SML)",
+      "filename": "EMH_mMe4_0_SML.txt"
+    },
+    {
+      "name": "EasyMeter M100 (SML)",
+      "filename": "EasyMeter_M100_SML.txt"
+    },
+    {
+      "name": "EasyMeter M24 (SML)",
+      "filename": "EasyMeter_M24_SML.txt"
+    },
+    {
+      "name": "EasyMeter M60 (SML)",
+      "filename": "EasyMeter_M60_SML.txt"
+    },
+    {
+      "name": "EasyMeter Q1A (SML)",
+      "filename": "EasyMeter_Q1A_SML.txt"
+    },
+    {
+      "name": "EasyMeter Q1D (OBIS)",
+      "filename": "EasyMeter_Q1D_OBIS.txt"
+    },
+    {
+      "name": "EasyMeter Q3A (SML)",
+      "filename": "EasyMeter_Q3A_SML.txt"
+    },
+    {
+      "name": "EasyMeter Q3B (SML)",
+      "filename": "EasyMeter_Q3B_SML.txt"
+    },
+    {
+      "name": "EasyMeter Q3C (SML)",
+      "filename": "EasyMeter_Q3C_SML.txt"
+    },
+    {
+      "name": "EasyMeter Q3D (OBIS)",
+      "filename": "EasyMeter_Q3D_OBIS.txt"
+    },
+    {
+      "name": "EasyMeter Q3M (SML)",
+      "filename": "EasyMeter_Q3M_SML.txt"
+    },
+    {
+      "name": "Elster F96",
+      "filename": "Elster_F96.txt"
+    },
+    {
+      "name": "Elster Honeywell AS1350 (OBIS)",
+      "filename": "Elster_Honeywell_AS1350_OBIS.txt"
+    },
+    {
+      "name": "Elster Honeywell AS1440 (OBIS)",
+      "filename": "Elster_Honeywell_AS1440_OBIS.txt"
+    },
+    {
+      "name": "Elster Honeywell AS1500 (OBIS)",
+      "filename": "Elster_Honeywell_AS1500_OBIS.txt"
+    },
+    {
+      "name": "Elster Honeywell AS2018 (OBIS)",
+      "filename": "Elster_Honeywell_AS2018_OBIS.txt"
+    },
+    {
+      "name": "Elster Honeywell AS2020 (SML)",
+      "filename": "Elster_Honeywell_AS2020_SML.txt"
+    },
+    {
+      "name": "Elster Honeywell AS3500 (OBIS)",
+      "filename": "Elster_Honeywell_AS3500_OBIS.txt"
+    },
+    {
+      "name": "Elster T510 (OBIS)",
+      "filename": "Elster_T510_OBIS.txt"
+    },
+    {
+      "name": "Engelmann SensoStar E (M-Bus)",
+      "filename": "Engelmann_SensoStar_E_M-Bus.txt"
+    },
+    {
+      "name": "Fronius Symo",
+      "filename": "Fronius_Symo.txt"
+    },
+    {
+      "name": "Growatt MAX4200",
+      "filename": "Growatt_MAX4200.txt"
+    },
+    {
+      "name": "HUAWEI R4850G2",
+      "filename": "HUAWEI_R4850G2.txt"
+    },
+    {
+      "name": "Hager EHZ161 (OBIS)",
+      "filename": "Hager_EHZ161_OBIS.txt"
+    },
+    {
+      "name": "Hager EHZ361 (OBIS)",
+      "filename": "Hager_EHZ361_OBIS.txt"
+    },
+    {
+      "name": "Hager EHZ363 (SML)",
+      "filename": "Hager_EHZ363_SML.txt"
+    },
+    {
+      "name": "Hausheld HBZ100 (SML)",
+      "filename": "Hausheld_HBZ100_SML.txt"
+    },
+    {
+      "name": "Hichi IR (M-Bus)",
+      "filename": "Hichi_IR_M-Bus.txt"
+    },
+    {
+      "name": "Hichi IR (SML)",
+      "filename": "Hichi_IR_SML.txt"
+    },
+    {
+      "name": "Hiking DDS238-2",
+      "filename": "Hiking_DDS238-2.txt"
+    },
+    {
+      "name": "Holley DDZ285 (SML)",
+      "filename": "Holley_DDZ285_SML.txt"
+    },
+    {
+      "name": "Holley DTZ541 (SML)",
+      "filename": "Holley_DTZ541_SML.txt"
+    },
+    {
+      "name": "Holley DTZ541-ZDBA (SML)",
+      "filename": "Holley_DTZ541-ZDBA_SML.txt"
+    },
+    {
+      "name": "Holley EHZ541 (SML)",
+      "filename": "Holley_EHZ541_SML.txt"
+    },
+    {
+      "name": "Holley EHZ541-BE (SML)",
+      "filename": "Holley_EHZ541-BE_SML.txt"
+    },
+    {
+      "name": "Honeywell AS1440 (OBIS)",
+      "filename": "Honeywell_AS1440_OBIS.txt"
+    },
+    {
+      "name": "Honeywell AS2020 (SML)",
+      "filename": "Honeywell_AS2020_SML.txt"
+    },
+    {
+      "name": "Huawei SUN2000-10KTL (SML)",
+      "filename": "Huawei_SUN2000-10KTL_SML.txt"
+    },
+    {
+      "name": "Iskra AM550 (OBIS)",
+      "filename": "Iskra_AM550_OBIS.txt"
+    },
+    {
+      "name": "Iskra MT (OBIS)",
+      "filename": "Iskra_MT_OBIS.txt"
+    },
+    {
+      "name": "Iskra MT (SML)",
+      "filename": "Iskra_MT_SML.txt"
+    },
+    {
+      "name": "Iskra eHZ-MS2020 (SML)",
+      "filename": "Iskra_eHZ-MS2020_SML.txt"
+    },
+    {
+      "name": "Iskra eHZ-MT681-D4A51-K0 (SML)",
+      "filename": "Iskra_eHZ-MT681-D4A51-K0_SML.txt"
+    },
+    {
+      "name": "Iskra eHZ-MT681-D4A52-K0 (SML)",
+      "filename": "Iskra_eHZ-MT681-D4A52-K0_SML.txt"
+    },
+    {
+      "name": "Itron ACE3000 (OBIS)",
+      "filename": "Itron_ACE3000_OBIS.txt"
+    },
+    {
+      "name": "Itron ACE6000 (OBIS)",
+      "filename": "Itron_ACE6000_OBIS.txt"
+    },
+    {
+      "name": "Itron CF Echo II (SML)",
+      "filename": "Itron_CF_Echo_II_SML.txt"
+    },
+    {
+      "name": "Itron HZ1 (OBIS)",
+      "filename": "Itron_HZ1_OBIS.txt"
+    },
+    {
+      "name": "Itron eHZ (SML)",
+      "filename": "Itron_eHZ_SML.txt"
+    },
+    {
+      "name": "JANZ C3801 (OBIS)",
+      "filename": "JANZ_C3801_OBIS.txt"
+    },
+    {
+      "name": "Janitza B23",
+      "filename": "Janitza_B23.txt"
+    },
+    {
+      "name": "KAIFA MB310 (SML)",
+      "filename": "KAIFA_MB310_SML.txt"
+    },
+    {
+      "name": "KAIFA MB310H4BDE (SML)",
+      "filename": "KAIFA_MB310H4BDE_SML.txt"
+    },
+    {
+      "name": "Kamstrup 382 (OBIS)",
+      "filename": "Kamstrup_382_OBIS.txt"
+    },
+    {
+      "name": "Kamstrup 382L",
+      "filename": "Kamstrup_382L.txt"
+    },
+    {
+      "name": "Kamstrup Multical M401 (SML)",
+      "filename": "Kamstrup_Multical_M401_SML.txt"
+    },
+    {
+      "name": "Kamstrup Multical",
+      "filename": "Kamstrup_Multical.txt"
+    },
+    {
+      "name": "Landis + Gyr E220 (SML)",
+      "filename": "Landis_Gyr_E220_SML.txt"
+    },
+    {
+      "name": "Landis + Gyr E230 (OBIS)",
+      "filename": "Landis_Gyr_E230_OBIS.txt"
+    },
+    {
+      "name": "Landis + Gyr E320 (SML)",
+      "filename": "Landis_Gyr_E320_SML.txt"
+    },
+    {
+      "name": "Landis + Gyr E350 (OBIS)",
+      "filename": "Landis_Gyr_E350_OBIS.txt"
+    },
+    {
+      "name": "Landis + Gyr E450",
+      "filename": "Landis_Gyr_E450.txt"
+    },
+    {
+      "name": "Landis + Gyr E650 (OBIS)",
+      "filename": "Landis_Gyr_E650_OBIS.txt"
+    },
+    {
+      "name": "Landis + Gyr T550 (OBIS)",
+      "filename": "Landis_Gyr_T550_OBIS.txt"
+    },
+    {
+      "name": "Landis + Gyr ZMB120 (OBIS)",
+      "filename": "Landis_Gyr_ZMB120_OBIS.txt"
+    },
+    {
+      "name": "Landis + Gyr ZMD120 (OBIS)",
+      "filename": "Landis_Gyr_ZMD120_OBIS.txt"
+    },
+    {
+      "name": "Landis + Gyr ZMR120AReS2R2sfCS (OBIS)",
+      "filename": "Landis_Gyr_ZMR120AReS2R2sfCS_OBIS.txt"
+    },
+    {
+      "name": "Latronic L20 (SML)",
+      "filename": "Latronic_L20_SML.txt"
+    },
+    {
+      "name": "Logarex LK11BL (OBIS)",
+      "filename": "Logarex_LK11BL_OBIS.txt"
+    },
+    {
+      "name": "Logarex LK13BD (OBIS)",
+      "filename": "Logarex_LK13BD_OBIS.txt"
+    },
+    {
+      "name": "Logarex LK13BE (SML)",
+      "filename": "Logarex_LK13BE_SML.txt"
+    },
+    {
+      "name": "Logarex LK13BE803039 (OBIS)",
+      "filename": "Logarex_LK13BE803039_OBIS.txt"
+    },
+    {
+      "name": "Logarex LK13BE803319 (OBIS)",
+      "filename": "Logarex_LK13BE803319_OBIS.txt"
+    },
+    {
+      "name": "Logarex LK13BE803xxx (OBIS)",
+      "filename": "Logarex_LK13BE803xxx_OBIS.txt"
+    },
+    {
+      "name": "Logarex LK13BO (OBIS)",
+      "filename": "Logarex_LK13BO_OBIS.txt"
+    },
+    {
+      "name": "Metcom MCS301 (OBIS)",
+      "filename": "Metcom_MCS301_OBIS.txt"
+    },
+    {
+      "name": "PAFAL 20EC3 (OBIS)",
+      "filename": "PAFAL_20EC3_OBIS.txt"
+    },
+    {
+      "name": "Peacefair PZEM004TV30",
+      "filename": "Peacefair_PZEM004TV30.txt"
+    },
+    {
+      "name": "Peacefair PZEM004TV4.0 (SML)",
+      "filename": "Peacefair_PZEM004TV4_0_SML.txt"
+    },
+    {
+      "name": "Resol Deltasol BS Plus",
+      "filename": "Resol_Deltasol_BS_Plus.txt"
+    },
+    {
+      "name": "SBC ALE3",
+      "filename": "SBC_ALE3.txt"
+    },
+    {
+      "name": "SMA Solar Inverter (SML)",
+      "filename": "SMA_Solar_Inverter_SML.txt"
+    },
+    {
+      "name": "SML V1.04 (SML)",
+      "filename": "SML_V1_04_SML.txt"
+    },
+    {
+      "name": "Sagemcom MA105-MA304 (OBIS)",
+      "filename": "Sagemcom_MA105-MA304_OBIS.txt"
+    },
+    {
+      "name": "Sagemcom Smarty BZ-P (SML)",
+      "filename": "Sagemcom_Smarty_BZ-P_SML.txt"
+    },
+    {
+      "name": "Sanxing SX6x1 (OBIS)",
+      "filename": "Sanxing_SX6x1_OBIS.txt"
+    },
+    {
+      "name": "Schneider iEM3150 (MODBus)",
+      "filename": "Schneider_iEM3150_MODBus.txt"
+    },
+    {
+      "name": "Schneider iEM3155",
+      "filename": "Schneider_iEM3155.txt"
+    },
+    {
+      "name": "Shelly PRO (SML)",
+      "filename": "Shelly_PRO_SML.txt"
+    },
+    {
+      "name": "Siemens IM-350 (SML)",
+      "filename": "Siemens_IM-350_SML.txt"
+    },
+    {
+      "name": "Siemens TD-3511 (SML)",
+      "filename": "Siemens_TD-3511_SML.txt"
+    },
+    {
+      "name": "Sorel LTDC",
+      "filename": "Sorel_LTDC.txt"
+    },
+    {
+      "name": "Sorel XHCC",
+      "filename": "Sorel_XHCC.txt"
+    },
+    {
+      "name": "Trovis 557 (SML)",
+      "filename": "Trovis_557_SML.txt"
+    },
+    {
+      "name": "WOLF CSZ (SML)",
+      "filename": "WOLF_CSZ_SML.txt"
+    },
+    {
+      "name": "ZPA GH302 (SML)",
+      "filename": "ZPA_GH302_SML.txt"
+    },
+    {
+      "name": "ZPA GH305 (SML)",
+      "filename": "ZPA_GH305_SML.txt"
+    },
+    {
+      "name": "ZPA GS303 (SML)",
+      "filename": "ZPA_GS303_SML.txt"
+    },
+    {
+      "name": "ZPA ZE311 (OBIS)",
+      "filename": "ZPA_ZE311_OBIS.txt"
+    },
+    {
+      "name": "ZPA ZE314 (OBIS)",
+      "filename": "ZPA_ZE314_OBIS.txt"
+    },
+    {
+      "name": "eBZ DD3 (OBIS)",
+      "filename": "eBZ_DD3_OBIS.txt"
+    },
+    {
+      "name": "eBZ DD3 (SML)",
+      "filename": "eBZ_DD3_SML.txt"
+    },
+    {
+      "name": "eBZ MD3 (SML)",
+      "filename": "eBZ_MD3_SML.txt"
+    },
+    {
+      "name": "inepro Metering PRO380-MB",
+      "filename": "inepro_Metering_PRO380-MB.txt"
+    },
+    {
+      "name": "inepro PRO380-M (MODBus)",
+      "filename": "inepro_PRO380-M_MODBus.txt"
+    }
+  ]
+}
